@@ -65,7 +65,6 @@ const HomePage = () => {
           </div>
         </div>
       </div>
-      <Testimonials />
       <CallToAction />
     </div>
   );
